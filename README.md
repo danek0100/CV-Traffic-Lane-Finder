@@ -1,2 +1,9 @@
 # CV-Lane-Finder
-Determining road lanes using the classic CV algorithm
+
+## Task:
+
+Find the lanes in the input image and their intersection point.
+
+## Result:
+
+![result_road1_combined](output/result_road1_combined.png)
